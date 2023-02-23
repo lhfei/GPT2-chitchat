@@ -1,6 +1,9 @@
 transformers==4.4.2
-pytorch==1.7.0
+torch
 sklearn
 tqdm
 numpy
 scipy==1.2.1
+tensorboard
+setuptools==59.5.0
+scikit-learn
